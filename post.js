@@ -1,5 +1,6 @@
-const a = 1;
-const b = 2;
-const c = 3;
-const d = 4;
+const a = 10;
+const b = 20;
+const c = 30;
+const d = 40;
+
 
